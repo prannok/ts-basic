@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.env
+asyncTest.ts
+beginnerClass.ts
+callbackRealWorld.ts
+callbackTest.ts
+chainTest.ts
+helloWorld.ts
+interfaceTest.ts
